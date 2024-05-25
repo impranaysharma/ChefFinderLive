@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ChefFinderLive/static/css/main.c53e5898.css",
+    "main.js": "/ChefFinderLive/static/js/main.3c2daa07.js",
+    "static/js/453.7ba53a11.chunk.js": "/ChefFinderLive/static/js/453.7ba53a11.chunk.js",
+    "static/media/solgif.gif": "/ChefFinderLive/static/media/solgif.3a4c84afaad0ad14d43c.gif",
+    "static/media/main.jpg": "/ChefFinderLive/static/media/main.492a51f395d6341be7c5.jpg",
+    "static/media/test1.png": "/ChefFinderLive/static/media/test1.f33d34c272a493879819.png",
+    "static/media/test2.webp": "/ChefFinderLive/static/media/test2.4ee2c1edce71c5a70063.webp",
+    "static/media/pos4.webp": "/ChefFinderLive/static/media/pos4.783cf2c7f260f8efa987.webp",
+    "static/media/pos2.webp": "/ChefFinderLive/static/media/pos2.3ffdbf650998a69eae11.webp",
+    "static/media/pos1.webp": "/ChefFinderLive/static/media/pos1.0eff425103349252ce00.webp",
+    "static/media/pos3.webp": "/ChefFinderLive/static/media/pos3.b66294cf5fb8dedb1a37.webp",
+    "index.html": "/ChefFinderLive/index.html",
+    "main.c53e5898.css.map": "/ChefFinderLive/static/css/main.c53e5898.css.map",
+    "main.3c2daa07.js.map": "/ChefFinderLive/static/js/main.3c2daa07.js.map",
+    "453.7ba53a11.chunk.js.map": "/ChefFinderLive/static/js/453.7ba53a11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c53e5898.css",
+    "static/js/main.3c2daa07.js"
+  ]
+}
